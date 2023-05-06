@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hardi Muhsen</h1>
 <h3 align="center">A passionate frontend developer 🙋‍♂️</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/ck/a?!&&p=59970efe4c731312JmltdHM9MTY4MzMzMTIwMCZpZ3VpZD0wNzY4ZTU3OS1hMjczLTZkZTgtMWM1NS1mNzg2YTNjMTZjYmMmaW5zaWQ9NTUwOA&ptn=3&hsh=3&fclid=0768e579-a273-6de8-1c55-f786a3c16cbc&u=a1L2ltYWdlcy9zZWFyY2g_cT1kZXYgZ2lmJkZPUk09SVFGUkJBJmlkPTI2MURDMDI1QTY5OEVFNTQ5ODE1NUE3NTA1MUQ5MEFGOThFNzYyM0Q&ntb=1" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardimuhsen" alt="hardimuhsen" /></a> </p>
 
